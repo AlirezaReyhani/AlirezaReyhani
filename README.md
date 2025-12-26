@@ -1,8 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:111111,100:1a1a1a&height=180&section=header&text=Cyber%20Security%20%7C%20Low-Level%20Learning&fontSize=32&fontColor=ff0000)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=ff0000&center=true&vCenter=true&width=650&lines=Computer+Software+Engineering+Student;Cyber+Security+Learner;Reverse+Engineering+%26+Malware+Analysis;Embedded+Systems+%7C+ESP32+%26+Arduino" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=ff0000&center=true&vCenter=true&width=650&lines=Computer+Software+Engineering+Student;Cyber+Security+Learner;Reverse+Engineering+%26+Malware+Analysis;System+Internals+%26+Privilege+Escalation" />
 </p>
+
 
 ---
 
@@ -16,7 +17,13 @@
 🧠 Focused on fundamentals, not shortcuts
 
 ---
+## Practical Experience
+- Kali Linux kernel deployment on mobile devices
+- Hands-on experience with HID-based attack tools
+- Familiar with UAC bypass techniques and payload behavior
+- Currently expanding knowledge in advanced exploitation and system security
 
+  
 ## Cyber Security
 Actively learning and exploring:
 
